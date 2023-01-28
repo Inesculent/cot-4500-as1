@@ -1,31 +1,10 @@
-Dylan Dinh
+1/29/2023
 
-1/19/2023
+The program will solve a variety of iteration based problems given by the assignment pdf
 
-This is the intro assignment for COT4500. It is also my first time
-ever coding in python so some of the methods utilized may not be the 
-most efficient or optimal. 
+The requirements for the code to operate are listed in requirements.txt. The only module used by the code is decimal.py since we need it for precise division operations
 
-The sole requirement for the code to function is the use of numpy, which is on version 1.24.1 as stated in the requirements txt file.
+In order to run the program, type:
 
-To execute the code, simply type:
+python "path/assignment_1.py" into the terminal
 
-python "path/intro_to_python.py"
-
-into the command prompt
-
-
-The result should return:
-
-[[1 0 0]
- [0 1 0]
- [0 0 1]]
-
-[[1 3 3]
- [3 1 3]
- [3 3 1]]
-
-[[1 3]
- [3 1]
- [3 3]]
- 
